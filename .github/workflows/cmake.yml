@@ -39,14 +39,14 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        directory: ${{github.workspace}}\game-english\
+        directory: ${{github.workspace}}\game_english\
         type: 'zip'
         filename: 'windows.zip'
 
     - name: Upload
       uses: ncipollo/release-action@v1
       with:
-        artifacts: ${{github.workspace}}\game-english\windows.zip
+        artifacts: ${{github.workspace}}\game_english\windows.zip
         name: CSE2-tweaks release
         body: "General action push"
         allowUpdates: true

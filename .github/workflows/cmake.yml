@@ -27,7 +27,7 @@ jobs:
 
     - name: Build
       # Build your program with the given configuration
-      run: cmake --build ${{github.workspace}}/build --config Release -DDEBUG_SAVE=ON -DFORCE_LOCAL_LIBS=ON -DEXTRA_SOUND_FORMATS=ON -DCLOWNAUDIO_LIBXMPLITE=ON
+      run: cmake --build ${{github.workspace}}/build --config Release -DDEBUG_SAVE=ON -DEXTRA_SOUND_FORMATS=ON -DCLOWNAUDIO_LIBXMPLITE=ON
 
     - name: Install Strip
       run: cmake --install build --prefix instdir --strip

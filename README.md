@@ -1,6 +1,8 @@
 ## I don't want to read all this just give me the damn game!
 [Here you go, idiot.](https://github.com/haya3218/cse2-tweaks/releases/download/1.0.0.6/windows.zip)
 
+If you're looking for the latest OFFICIAL CSE2 Tweaks release, its [right here!](https://box.oneninefour.cl/cloud/index.php/s/tpXtfRpEoEngetQ)
+
 Imported from [Gitfem's CSE2-tweaks repo](https://fem.mint.lgbt/phantop/CSE2-tweaks)
 
 # Cave Story: Tweaked
@@ -9,7 +11,7 @@ Cave Story: Tweaked (also known as Tweaks) is a project to add accessibility and
 
 ![Screenshot](screenshot.gif)
 
-This project has been forked from the now-dmca'd [CSE2](https://github.com/gameblabla/CSE2/), specifically the `enhanced` branch, adding several enhancements:
+This project has been forked from the now-dmca'd [CSE2 (reup link)](https://github.com/gameblabla/CSE2/), specifically the `enhanced` branch, adding several enhancements:
 * Revamped Map System, partially based off of Cave Story 3D
 * Strafing, as seen in Cave Story+ for Nintendo Switch
 * Options menu:

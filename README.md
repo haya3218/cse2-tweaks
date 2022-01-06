@@ -6,7 +6,7 @@ Cave Story: Tweaked (also known as Tweaks) is a project to add accessibility and
 
 ![Screenshot](screenshot.gif)
 
-This project has been forked from [CSE2](https://githubcom/Clownacy/CSE2), specifically the now-defunct `enhanced` branch, adding several enhancements:
+This project has been forked from the now-dmca'd [CSE2](https://github.com/gameblabla/CSE2/), specifically the `enhanced` branch, adding several enhancements:
 * Revamped Map System, partially based off of Cave Story 3D
 * Strafing, as seen in Cave Story+ for Nintendo Switch
 * Options menu:

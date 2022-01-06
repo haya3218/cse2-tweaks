@@ -1,3 +1,6 @@
+## I don't want to read all this just give me the damn game!
+[Here you go, idiot.](https://github.com/haya3218/cse2-tweaks/releases/download/1.0.0.6/windows.zip)
+
 Imported from [Gitfem's CSE2-tweaks repo](https://fem.mint.lgbt/phantop/CSE2-tweaks)
 
 # Cave Story: Tweaked
